@@ -1,0 +1,7 @@
+{
+  "name": "SMU LIVE FM - Public Stream",
+  "description": "The official web portal for SMU LIVE FM. Listen to the latest deep house, indie, and electronic beats with real-time Icecast metadata and community-driven insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
